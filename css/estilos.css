@@ -17,26 +17,31 @@ body {
 .c1 {
 	color: black;
 	background-color: #E6EBE0;
+	width: 100%;
 }
 
 .c2 {
 	color: black;
 	background-color: #F4F1BB;
+		width: 100%;
 }
 
 .c3 {
 	color: black;
 	background-color: #9BC1BC;
+		width: 100%;
 }
 
 .c4 {
 	color: black;
 	background-color: #36C9C6;
+		width: 100%;
 }
 
 .c5 {
 	color: white;
 	background-color: #ED6A5A;
+		width: 100%;
 }
 
 .container {
@@ -45,4 +50,3 @@ body {
 	-webkit-flex-flow: row wrap;
 	flex-flow: row wrap;
 }
-
