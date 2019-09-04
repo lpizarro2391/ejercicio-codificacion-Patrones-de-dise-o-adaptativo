@@ -17,30 +17,47 @@ body {
 .c1 {
 	color: black;
 	background-color: #E6EBE0;
+<<<<<<< HEAD
 
+=======
+	width: 100%;
+>>>>>>> 4a2a83dba77e1283b205d03ae4567bf365ff315c
 }
 
 .c2 {
 	color: black;
 	background-color: #F4F1BB;
+<<<<<<< HEAD
 
+=======
+		width: 100%;
+>>>>>>> 4a2a83dba77e1283b205d03ae4567bf365ff315c
 }
 
 .c3 {
 	color: black;
 	background-color: #9BC1BC;
+<<<<<<< HEAD
 
+=======
+		width: 100%;
+>>>>>>> 4a2a83dba77e1283b205d03ae4567bf365ff315c
 }
 
 .c4 {
 	color: black;
 	background-color: #36C9C6;
+<<<<<<< HEAD
 
+=======
+		width: 100%;
+>>>>>>> 4a2a83dba77e1283b205d03ae4567bf365ff315c
 }
 
 .c5 {
 	color: white;
 	background-color: #ED6A5A;
+<<<<<<< HEAD
 
 }
 .c1, .c2, .c3, .c4, .c5 {
@@ -50,6 +67,9 @@ body {
 	.c2, .c3, .c4, .c5 {
 		width: 50%;
 	}
+=======
+		width: 100%;
+>>>>>>> 4a2a83dba77e1283b205d03ae4567bf365ff315c
 }
 @media (min-width: 800px) {
 	.c1 {
